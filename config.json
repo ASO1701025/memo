@@ -1,0 +1,18 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 33066,
+    "user": "root",
+    "password": "password",
+    "database": "memo001"
+  },
+  "mail": {
+    "host": "",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "",
+      "pass": ""
+    }
+  }
+}
